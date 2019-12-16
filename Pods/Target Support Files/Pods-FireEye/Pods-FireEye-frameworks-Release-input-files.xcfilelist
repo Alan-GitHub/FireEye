@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-FireEye/Pods-FireEye-frameworks.sh
+${BUILT_PRODUCTS_DIR}/ESTabBarController-swift/ESTabBarController_swift.framework
+${BUILT_PRODUCTS_DIR}/EZSwiftExtensions/EZSwiftExtensions.framework
+${BUILT_PRODUCTS_DIR}/NJKWebViewProgress/NJKWebViewProgress.framework
+${BUILT_PRODUCTS_DIR}/SVProgressHUD/SVProgressHUD.framework
+${BUILT_PRODUCTS_DIR}/WebViewJavascriptBridge/WebViewJavascriptBridge.framework
